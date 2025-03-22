@@ -1,0 +1,10 @@
+export { default as HomeLayout} from './home-layout/HomeLayout';
+export { default as Login} from './login/Login';
+export {default as Register} from './register/Register';
+export {default as DashboardLayout } from './dashboard-layout/DashboardLayout';
+export { default as Landing} from './landing/Landing';
+export {default as Error } from './error/Error';
+export {default as AddJob} from './add-job/AddJob';
+export {default as Stats} from './stats/Stats';
+export {default as  AllJobs } from './all-jobs/AllJobs';
+export {default as Profile} from './profile/Profile';
